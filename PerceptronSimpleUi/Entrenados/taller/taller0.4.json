@@ -1,0 +1,1 @@
+{"m":2,"n":1,"patrones":6,"x":[[2,0],[0,0],[2,2],[0,1],[1,1],[1,2]],"yd":[[1],[-1],[1],[-1],[1],[-1]],"u":[-2.0],"w":[[0.0],[-4.0]],"numeroIteraciones":100,"errorMaximoPermitido":0.8,"tasaAprendisaje":1.0}
